@@ -1,0 +1,66 @@
+[
+  {
+    "id": "3926",
+    "title": "Quel est l’intérêt de fournir aux utilisateurs la possibilité de connaître les nouveaux contenus ou services (3 réponses justes) ?",
+    "objectifs": [
+      "Proposer un service innovant aux usagers.",
+      "Montrer que le site est actif et que quelqu’un s’en occupe.",
+      "Tenir le site à jour des dernières avancées techniques."
+    ],
+    "objectifs": [
+      "Faire gagner du temps aux utilisateurs qui ont déjà visité le site.",
+      "Proposer un service innovant aux usagers.",
+      "Montrer que le site est actif et que quelqu’un s’en occupe."
+    ]
+  },
+  {
+    "id": "3958",
+    "title": "Je suis designer Web : quelles bonnes pratiques me concernent-elles (2 réponses justes) ?",
+    "objectifs": [
+      "Le titre de chaque page permet d’identifier son contenu.",
+      "Les icônes de navigation sont accompagnées d’une légende explicite."
+    ],
+    "objectifs": [
+      "Les hyperliens sont visuellement différenciés du reste du contenu.",
+      "Chaque image est dotée d’une alternative textuelle appropriée."
+    ]
+  },
+  {
+    "id": "3946",
+    "title": "La possibilité d’agrandir la taille de caractères à l’aide de la fonctionnalité de zoom du navigateur, sans agrandir les éléments graphiques (2 réponses justes) :",
+    "objectifs": [
+      "Doit permettre d’atteindre un facteur d’agrandissement de 600%.",
+      "Reste une nécessité pour l’adaptation du contenu aux besoins des utilisateurs en situation de handicap visuel."
+    ],
+    "objectifs": [
+      "Reste une nécessité pour l’adaptation du contenu aux besoins des utilisateurs en situation de handicap visuel.",
+      "Est une règle d’accessibilité dans les recommandations WCAG."
+    ]
+  },
+  {
+    "id": "3924",
+    "title": "Si vous proposez un numéro de téléphone spécial ou surtaxé, ou l’adresse physique d’un magasin, il est essentiel d’indiquer (3 réponses justes) :",
+    "objectifs": [
+      "Un moyen de contact alternatif.",
+      "Le tarif des appels vers le numéro de téléphone.",
+      "L’identité du responsable du magasin ou de l’établissement."
+    ],
+    "objectifs": [
+      "Un moyen de contact alternatif.",
+      "Le tarif des appels vers le numéro de téléphone.",
+      "Les horaires de fonctionnement de l’assistance téléphonique proposée."
+    ]
+  },
+  {
+    "id": "3939",
+    "title": "Le site n’impose pas d’interdiction ou de restriction à la mise en place des liens entrants.. Pourquoi ? Choisissez les affirmations exactes (2 réponses justes) :",
+    "objectifs": [
+      "Les liens entrants sont importants pour la visibilité du site dans certains moteurs de recherche.",
+      "Les liens entrants n’ont aucune importance pour la qualité du site."
+    ],
+    "objectifs": [
+      "Les liens entrants n’ont aucune importance pour la qualité du site.",
+      "Les liens entrants sont importants pour la visibilité du site dans certains moteurs de recherche."
+    ]
+  }
+]

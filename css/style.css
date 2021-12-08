@@ -1,0 +1,40 @@
+#tooltipOpquast .tooltiptext {
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 40px 110px;
+    opacity: 0.93;
+
+}
+
+#objectifsList {
+    text-align: left;
+}
+
+.title {
+    padding-bottom: 30px;
+}
+
+#tooltipOpquast {
+    position: fixed;
+    z-index: 100;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    width: 900px;
+}
+
+.right-answer {
+    background: #E5E5E5;
+}
+
+::-moz-selection {
+    color: inherit;
+    background: #EFEFEF;
+}
+
+::selection {
+    color: inherit;
+    background: #EFEFEF;
+}

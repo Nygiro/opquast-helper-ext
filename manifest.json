@@ -1,0 +1,28 @@
+{
+  "name": "Chrome Extension Example",
+  "version": "1.0",
+  "description": "Build an Extension!",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "js/jquery.min.js",
+        "content.js"
+      ],
+      "css": [
+        "css/style.css"
+      ]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "icons/icon.png"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
+}

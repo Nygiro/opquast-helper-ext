@@ -1,0 +1,1070 @@
+|Pour définir la qualité Web, on retient ici une approche centrée sur :
+*L’expérience utilisateur.
+|La notion de visibilité concerne notamment :
+*Les campagnes publicitaires par voie d’affichage.
+*La présence du site dans les résultats affichés par les moteurs de recherche externes.
+|Quels sont les aspects techniques de la qualité ?
+*L’adaptation au mobile.
+*La vitesse d’affichage des pages.
+|La maîtrise d’ouvrage (propriétaire du projet) est généralement responsable :
+*Des services
+*Des contenues
+|La maîtrise d’œuvre (réalisateur du projet web )est généralement responsable d’aspects tels que :
+*La sécurité
+*Le référencement
+*L'ergonomie
+|La notion de perception concerne notamment :
+*Le design
+*L'ergonomie
+|L'expérience utilisateur :
+*Ne se limite pas à la visite du site
+|La valeur d’un site ou d’un service, qui motive ses visiteurs, dépend essentiellement :
+*Des contenus et des services qu'il propose
+|Une loupe d’écran permet :
+*D’agrandir le contenu affiché et d’en adapter les couleurs.
+|La démarche qualité vise :
+*L’ensemble des contextes d’usages d’un site
+|On appelle lecteur d’écran :
+*Un logiciel de synthèse vocale qui restitue oralement le contenu de la page et permet d’interagir avec celle-ci.
+|La démarche qualité prend en compte :
+*Les outils de traductions automatiques.
+*Les logiciels d’aide aux personnes en situation de handicap
+*Les robots d’indexation du contenu.
+*Les utilisateurs humains.
+|La démarche qualité repose sur :
+*La prise en compte du plus grand nombre possible de contextes d’usages.
+|Les conditions de modération des espaces publics…
+*sont indiquées.
+|Le délai de livraison estimé
+*est indiqué avant la validation définitive de la commande.
+|Les modalités de récupération d’un bien dématérialisé…
+*sont précisées avant la commande.
+|L’adresse du site et de ses sous-domaines…
+*fonctionnent avec ou sans préfixe www.
+|Les contenus ou fichiers destinés à des espaces publics…
+*peuvent être vérifiés avant leur envoi définitif.
+|Qu’est-ce qu’une taille de caractères fixe ?
+*Les tailles de caractères fixes sont les unités utilisées dans les feuilles de style CSS pour définir la taille du texte, mais qui ne sont pas destinées à gérer l’affichage à l’écran, mais uniquement sur le media print (impression papier) : le point, le centimètre, le pouce..
+|Les informations relatives…
+*à la zone de livraison des produits ou de réalisation des services sont indiquées.
+|Les informations destinées à des espaces publics…
+*peuvent être prévisualisées sous la forme où elles seront affichées.
+|La page d’accueil…
+*expose la nature des contenus et services proposés.
+|La référence de la transaction…
+*est affichée au client après la validation de sa commande.
+|Quel est le format utilisé le plus souvent pour un `fil de syndication` ?
+*Un fil de syndication est un fichier XML. Le format RSS est le plus utilisé.
+|Un lien de désinscription…
+*est présent dans chaque newsletter.
+|Si le site déclare respecter un ou plusieurs standards ou référentiels…
+*un lien est proposé vers chacun d’entre eux.
+|La disponibilité des produits…
+*est indiquée avant la validation définitive de la commande.
+|Une adresse de livraison…
+*différente de l’adresse de facturation peut être spécifiée.
+|Les conditions de fonctionnement du service après-vente (tarifs, horaires, moyens de contact, etc.)…
+*sont indiquées.
+|Qu’est-ce que les espaces publics d’un site ?
+*Contenus dont la rédaction et la publication (immédiate ou bien modérée et différée) sont ouvertes aux visiteurs du site (commentaires, forum, wiki, etc.).
+|Les espaces publics…
+*proposent au moins un moyen de signaler les abus.
+|Le site propose au moins un moyen de contacter…
+*le responsable des réclamations.
+|Un courriel…
+*indiquant la référence de la transaction et les données de la commande est envoyé suite à la validation.
+|L’identité de la personne ou du service…
+*responsable des contenus est indiquée
+|Qu’est-ce qu’une icône de favori ? (favicon)
+*Icône hébergée par un site, associé à un nom de domaine ou de sous-domaine, exploitée par le navigateur pour l’identification du site dans des contextes tels que les onglets, les signets ou favoris, l’historique de navigation, etc.
+|La charte graphique…
+*est cohérente sur l’ensemble du site.
+|Le mode de dépôt et la procédure de traitement des réclamations…
+*sont indiqués.
+|Les prix affichés
+*mentionnent le détail des taxes et suppléments éventuels ainsi que le montant hors taxes
+|La désinscription aux newsletters…
+*est possible depuis le site.
+|Qu’est-ce qu’une taille de caractères variable ?
+*Les unités em, le % et les mots-clés CSS.
+|La racine du site contient…
+*des instructions pour les robots d’indexation.
+|Les conditions de vente ou d’utilisation…
+*sont accessibles depuis toutes les pages.
+|Le nom du site et/ou le nom de l’auteur…
+*sont indiqués sur chaque page.
+|Les nouvelles fenêtres dimensionnées et les fenêtres modales…
+*sont dotées d’un bouton de fermeture explicite.
+|Les mécanismes de fermetures de fenêtres…
+*sont immédiatement disponibles.
+|Le titre de chaque page permet…
+*d’identifier le site.
+|Les mécanismes de fermetures de fenêtres sont affichés…
+*aux mêmes emplacements sur toutes les pages.
+|Les mots de passe choisis par l’utilisateur…
+*admettent les caractères imprimables de la table ASCII.
+|La durée des contenus vidéo ou audio…
+*est indiquée.
+|Le format des fichiers proposés en téléchargement…
+*est indiqué.
+|L’utilisateur est…
+*averti des ouvertures de nouvelles fenêtres.
+|Les contenus publicitaires ou sponsorisés…
+*sont identifiés comme tels.
+|La langue principale de la page cible d’un hyperlien…
+*est identifiable lorsqu’elle diffère de celle de la page d’origine.
+|Qu’est-ce qu’un tooltip ?
+*Information affichée en surimpression du contenu de la page, le plus souvent lors du survol d’un contenu.
+|Le site est…
+*intégralement utilisable au clavier.
+|Qu’est-ce qu’un hyperlien relatif ?
+*Lien dont l’URL finale dépend de la page ou du contenu dans lequel il est présent.
+|Chaque lien est doté…
+*d’un intitulé dans le code source.
+|Les hyperliens consécutifs…
+*sont séparés visuellement.
+|Les mécanismes de fermeture de fenêtres…
+*sont visuellement rattachées à leur contenu.
+|Les animations, sons et clignotements…
+*peuvent être mis en pause.
+|Les liens provoquant l’ouverture d’un logiciel externe…
+*ont un libellé explicite.
+|La navigation au clavier…
+*s’effectue dans un ordre prévisible.
+|Les hyperliens de même nature…
+*ont des couleurs, des formes et des comportements identiques sur toutes les pages.
+|La langue des fichiers en téléchargement…
+*est précisée lorsqu’elle diffère de celle de la page d’origine.
+|Qu’est-ce qu’une splash screen ?
+*Fenêtre transitoire affichée avant l’accès au contenu cible, nécessitant soit d’attendre sa fermeture automatique soit de procéder à sa fermeture manuelle pour pouvoir consulter le contenu visé.
+|Le titre de chaque page…
+*permet d’identifier son contenu.
+|Qu’est qu’un libellé de lien ?
+*Contenu textuel final d’un hyperlien (HTML, Flash etc.) tel qu’il est restitué à l’utilisateur.
+|Le site ne comporte pas…
+*de liens internes vers des pages en construction.
+|Tous les hyperliens…
+*internes du site sont valides.
+|La taille des fichiers internes proposés en téléchargement…
+*est indiquée.
+|Qu’est-ce qu’un Fil d’Ariane ?
+*Indication de la position courante de la page consultée dans l’arborescence des contenus du site, sous la forme d’une succession de liens partant de l’accueil et reflétant la structure des rubriques et sous-rubriques.
+|Le site…
+*n’applique pas le même style aux liens visités et non visités.
+|L’indicatif international…
+*est disponible pour tous les numéros de téléphone.
+|Qu’est-ce qu’Apache ?
+*Logiciel libre de serveur Web.
+|L’étiquette de chaque champ de formulaire indique…
+*le cas échéant, quel format de saisie doit être respecté.
+|Le serveur envoie une page…
+*d’interdiction 403 personnalisée.
+|L’information n’est pas véhiculée…
+*uniquement par la couleur.
+|La soumission d’un formulaire est suivie…
+*d’un message indiquant la réussite ou non de l’action souhaitée.
+|Le contenu de chaque page est organisé…
+*selon une structure de titres et sous-titres hiérarchisée.
+|Qu’est-ce qu’un entête HTTP ?
+*Information échangée entre le navigateur et le serveur lors de l’accès à une page Web.
+|Qu’est qu’un élément meta ?
+*Élément HTML meta (balise en HTML, en XHTML). Il permet d’associer à la page Web une métadonnée définie par son attribut CONTENT.
+|Les captchas audio…
+*peuvent être réécoutés à volonté.
+|Les fonctions de scripts…
+*internes au site sont placées dans des fichiers externes.
+|Lors de la saisie d’un formulaire réparti sur plusieurs pages…
+*un récapitulatif global est affiché avant l’envoi définitif.
+|L’étiquette de chaque champ de formulaire indique…
+*si la saisie est obligatoire.
+|L’étape en cours d’un processus complexe…
+*est indiquée.
+|Les captchas…
+*sont accompagnés d’une solution alternative d’accès.
+|Les feuilles de style…
+*du site sont minifiées.
+|Le menu principal de navigation…
+*figure sur les pages d’erreur personnalisées.
+|Qu’est-ce qu’un tooltip ?
+*Information affichée en surimpression du contenu de la page, le plus souvent lors du survol d’un contenu.
+|Qu’est-ce qu’un tableau de mise en forme ?
+*Technique de gestion de l’affichage des contenus de la page reposant sur le détournement des éléments HTML de tableaux de données pour parvenir à une mise en forme selon une grille.
+|En cas de rejet des données saisies dans un formulaire…
+*les champs contenant les données rejetées sont indiqués à l’utilisateur.
+|Qu’est-ce qu’un gestionnaire d’événement ?
+*Fonctionnalité javascript gérant l’interaction avec un élément HTML selon le type d’action de l’utilisateur : clic, actions au clavier, survol, etc.
+|Qu’est-ce que la linéarisation du contenu ?
+*Résultat du rendu final d’une page Web non pas dans l’ordre apparent que l’utilisateur peut déduire de son affichage CSS à l’écran, mais dans l’ordre réel où les contenus qui la composent se trouvent dans son code source.
+|Qu’est-ce qu’un tableau de données ?
+*Représentation de séries de données textuelles sous la forme d’un tableau dont les lignes et/ou colonnes se lisent à l’aide de leur(s) en-têtes.
+|Le code source de chaque page ne contient pas…
+*d’éléments détournés à des fins de présentation.
+| Qu’est-ce qu’une page d’erreur 404 ?
+*Page Web envoyée à l’utilisateur en réponse à une requête entraînant une erreur du type « Ressource non trouvée ».
+|Les dates…
+*sont présentées dans des formats explicites.
+|Qu’est-ce que l’art ASCII ?
+*Images simulées à l’aide de combinaisons de caractères.
+|Qu’est-ce qu’un captcha ?
+*Processus de validation associé en général à un formulaire afin de déjouer les robots et les outils de spam. Les captchas sont des tests de Turing, que seul un humain peut réussir en théorie.
+|Qu’est-ce qu’un htaccess ?
+*Fichier de configuration des serveurs Web Apache. Il permet en particulier de définir les droits d’accès, les pages d’erreurs personnalisées et les redirections.
+|Qu’est-ce qu’Unicode ?
+*Standard de représentation numérique des caractères.
+|Les textes pouvant être mis en forme via des styles…
+*ne sont pas remplacés par des images.
+|la bonne pratique « Le site accepte au moins deux moyens de paiement » a pour objectif :
+*Permettre aux utilisateurs de choisir le mode de paiement qui leur convient le mieux dans leur contexte.
+|La bonne pratique « Les mentions d’appartenance à un ordre ou groupe professionnel, d’un label ou d’une récompense sont accompagnées d’un lien vers la source » a pour objectifs :
+*Permettre à l’utilisateur de vérifier par lui-même l’information.
+*Accroître le degré de confiance ou de crédibilité
+*Donner un accès immédiat à l’utilisateur pour lui permettre de comprendre de quoi il s’agit.
+|Qu’est-ce qu’une icône de favori ?
+*Icône hébergée par un site, associé à un nom de domaine ou de sous-domaine, exploitée par le navigateur pour l’identification du site dans des contextes tels que les onglets, les signets ou favoris, l’historique de navigation, etc.
+|Icône hébergée par un site, associé à un nom de domaine ou de sous-domaine, exploitée par le navigateur pour l’identification du site dans des contextes tels que les onglets, les signets ou favoris, l’historique de navigation, etc.
+*Permettre aux utilisateurs d’identifier précisément les conditions de l’encaissement.
+|La bonne pratique « La référence de la transaction est affichée au client après la validation de sa commande » a pour objectif :
+*Permettre aux utilisateurs d’afficher et éventuellement d’imprimer une trace de leur commande.
+|La bonne pratique « Un courriel indiquant la référence de la transaction et les données de la commande est envoyé suite à la validation » a pour objectifs :
+*Donner à l’utilisateur une confirmation des informations relatives à la commande.
+*Permettre à l’utilisateur de conserver un historique de la transaction ailleurs que dans le site
+|La bonne pratique « La modification de la quantité de chaque article, l’ajout et la suppression d’un ou plusieurs articles restent possibles avant la validation définitive de la commande » a pour objectif :
+*Permettre à l’utilisateur de modifier facilement sa commande.
+|La bonne pratique « Aucun produit ni service annexe n’est ajouté au panier de commande sans que cette action soit déclenchée par l’utilisateur » a pour objectifs :
+*Laisser à l’utilisateur le contrôle de sa commande.
+*Ne pas compromettre la relation de confiance avec l’utilisateur.
+*Ne pas compromettre la relation de confiance avec l’utilisateur.
+|Qu’est-ce que la racine du site ?
+*Répertoire physique sur le serveur directement accessible à partir de l’URL du domaine.
+|La bonne pratique « La période et les conditions de validité des offres spéciales et promotions sont indiquées » a pour objectif :
+*Permettre aux utilisateurs d’identifier la période au cours de laquelle ils peuvent bénéficier des offres proposées.
+|La bonne pratique « Chaque demande d’information fait l’objet d’un accusé de réception » a pour objectifs :
+*Permettre aux utilisateurs d’obtenir une confirmation archivable de la bonne réception de leur demande d’information.
+*Informer les utilisateurs de la prise en compte de leur demande.
+|La bonne pratique « l’achat d’un produit ou service est possible sans création de compte » a pour objectifs :
+*Augmenter le taux de conversion.
+*Permettre à l’acheteur de commander immédiatement.
+|Qu’est-ce qu’une taille de caractères variable ?
+*Les unités em, le % et les mots-clés CSS.
+|La bonne pratique « Les informations relatives à la zone de livraison des produits ou de réalisation des services sont indiquées » a pour objectif :
+*Éviter une navigation et des commandes inutiles, voire une perte de temps pour l’utilisateur ainsi que pour la structure qui propose les biens ou les services.
+|Quel est le format utilisé le plus souvent pour un fil de syndication ?
+*Un fil de syndication est un fichier XML. Le format RSS est le plus utilisé.
+|La bonne pratique « Les horaires et tarifs de fonctionnement des services mis à la disposition des utilisateurs sont indiqués » a pour objectif :
+*Permettre aux utilisateurs de connaître les services mis à leur disposition et leur fonctionnement.
+|La bonne pratique « Une adresse de livraison différente de l’adresse de facturation peut être spécifiée » a pour objectif :
+*Permettre aux utilisateurs de faire livrer un achat sur le lieu de leur choix.
+|La bonne pratique « Les coordonnées postales et téléphoniques de la représentation locale ou du siège social des sociétés et organisations sont indiquées » a pour objectifs :
+*Favoriser l’identification de l’entité responsable des contenus et des services.
+*Fournir un moyen de contact alternatif.
+|La bonne pratique « Les contenus ou fichiers destinés à des espaces publics peuvent être vérifiés avant leur envoi définitif » a pour objectif :
+*Permettre à l’utilisateur de vérifier sa saisie en contexte et, si nécessaire, de la corriger avant envoi.
+|Qu’est-ce qu’un ratio de contraste ?
+*Indice chiffré reflétant la mesure du niveau de contraste et de luminosité d’un avant-plan (texte le plus souvent) par rapport à son arrière-plan, dans la page Web affichée.
+|La bonne pratique « Les moyens de paiement acceptés et les procédures correspondantes sont indiqués » a pour objectif :
+*Permettre aux utilisateurs d’anticiper le mode et les conditions de paiement et de vérifier avant la commande s’ils pourront la mener à son terme.
+|La bonne pratique « Les conditions de fonctionnement du service après-vente sont indiquées » a pour objectif :
+*Permettre aux utilisateurs de connaître les conditions d’assistance en cas de difficulté.
+|La bonne pratique « Les espaces publics proposent au moins un moyen de signaler les abus » a pour objectif :
+*Limiter les risques de consultation de contenus illégaux ou inappropriés.
+*Faciliter le signalement de contenus illégaux ou inappropriés.
+|La bonne pratique « Les prix affichés mentionnent le détail des taxes et suppléments éventuels ainsi que le montant hors taxes » a pour objectifs :
+*Permettre aux utilisateurs d’identifier précisément les montants déductibles et les différentes imputations.
+*Permettre aux utilisateurs d’identifier précisément et avant l’achat le montant total qu’ils auront à payer.
+|La bonne pratique « Les conditions de modération des espaces publics sont indiquées » a pour objectifs :
+*Limiter le nombre de réclamations des utilisateurs ne voyant pas leur publication apparaître.
+*Expliquer aux utilisateurs pour quelles raisons et dans quelle mesure leurs publications peuvent être modérées.
+|Qu’est ce que la syndication ?
+*Mise à disposition d’un contenu Web au format XML, essentiellement RSS, afin de permettre en particulier sa réutilisation par d’autres sites Web.
+|La bonne pratique « Le délai de livraison estimé est indiqué avant la validation définitive de la commande » a pour objectif :
+*Permettre aux utilisateurs d’identifier la date réelle à laquelle le bien commandé sera effectivement en leur possession.
+|La bonne pratique « La nature et les caractéristiques quantifiables des produits et services sont indiquées » a pour objectif :
+*Permettre aux utilisateurs d’identifier précisément la nature et les spécifications des produits proposés.
+|La bonne pratique « Le numéro d’immatriculation délivré aux sociétés ou organisations au terme des procédures légales d’enregistrement en vigueur dans leur pays est indiqué » a pour objectif :
+*Fournir aux utilisateurs une indication vérifiable de l’existence officielle de la structure qui propose les contenus ou le service.
+|Qu’est-ce qu’un Whois ?
+*Service d’information sur les domaines Web.
+|La bonne pratique « Le site n’applique pas le même style aux liens visités et non visités » a pour objectifs :
+*Faciliter l’identification des contenus déjà visités.
+*Faciliter l’identification des contenus restant à découvrir.
+*Inciter à la navigation sur de nouvelles pages.
+|La bonne pratique « Les hyperliens consécutifs sont séparés visuellement » a pour objectif :
+*Éviter les confusions entre deux liens consécutifs.
+|La bonne pratique « Les contenus publicitaires ou sponsorisés sont identifiés comme tels » a pour objectifs :
+*Prévenir les risques associés aux conflits d’intérêt.
+*Permettre une identification immédiate des contenus publicitaires ou sponsorisés.
+*Éviter les confusions entre contenus rédactionnels et publicitaires.
+|Qu’est-ce qu’un tooltip ?
+*Information affichée en surimpression du contenu de la page, le plus souvent lors du survol d’un contenu.
+|Qu’est-ce qu’une fenêtre surgissante ?
+*Nouvelle fenêtre du navigateur, généralement de taille réduite imposée, dont l’ouverture est imposée à l’utilisateur en complément de la navigation sur le site et de l’affichage des pages visitées.
+|Qu’est-ce qu’une Icône de navigation ?
+*Image-lien de taille réduite dont le graphisme (généralement simplifié) représente une fonctionnalité de navigation dans le site : retour à l’accueil, accès au plan de site, accès à la rubrique parente ou à l’élément précédent, etc.
+|Qu’est-ce qu’un lien d’accès rapide ?
+*Liens placés en début du contenu de la page, permettant lors de la navigation clavier d’accéder rapidement aux zones de contenu, de menu ou de recherche sans avoir à parcourir l’ensemble des liens et autres éléments d’interaction qui les précèdent.
+|La bonne pratique « Le site fournit aux utilisateurs la possibilité de connaître les nouveaux contenus ou services » a pour objectif :
+*Permettre aux utilisateurs d’identifier immédiatement les nouveaux contenus ou services en ligne.
+|Qu’est-ce que la langue de traitement d’une page Web ?
+*Langue dans laquelle sont rédigés par défaut les contenus de la page et dont l’indication est nécessaire en particulier pour les outils de synthèse vocale et de traduction afin de parvenir à un rendu correct.
+|Qu’est-ce qu’une fenêtre modale ?
+*Fenêtre simulée en surimpression à l’affichage de la page.
+|Qu’est-ce qu’une nouvelle fenêtre du navigateur ?
+*Ouverture du contenu cible d’un lien suite à une action de l’utilisateur dans une nouvelle fenêtre (ou un nouvel onglet) de son navigateur.
+|Qu’est-ce que l’arborescence du site ?
+*Organisation apparente des pages du site sous forme de rubriques et de sous-rubriques, telle qu’elle est restituée à l’utilisateur. L’arborescence peut être indépendante de l’organisation réelle des contenus sous forme de répertoires sur le serveur ou via la gestion dans le système de gestion de contenu (CMS).
+|La bonne pratique « Si le site propose un espace personnel ou abonné, il est possible de sauvegarder les contenus personnels dans un format standard » a pour objectifs :
+*Permettre l’archivage des contenus créés par l’utilisateur.
+*Éviter à l’utilisateur d’éventuelles saisies redoublées en cas de réutilisation des contenus.
+|La bonne pratique « Le titre de chaque page permet d’identifier le site » a pour objectifs :
+*Améliorer le référencement du site et sa présentation dans les moteurs de recherche.
+*Permettre aux utilisateurs d’identifier immédiatement le site dans les onglets, les favoris, dans la fenêtre du navigateur ou encore dans les lecteurs d’écran.
+|Qu’est-ce qu’une fenêtre dimensionnée ?
+*Fenêtre de taille réduite ouverte dans le navigateur, dont la largeur et/ou la hauteur sont fixées par un script et imposées à l’utilisateur.
+|Qu’est-ce qu’un plan de site ?
+*Page ou ensemble de page dont le contenu reflète l’arborescence des contenus sous forme de listes de liens organisées par rubriques. Le plan de site doit donner accès, directement ou indirectement, à tous les contenus du site.
+|La bonne pratique « Le survol ou l’activation des hyperliens ne modifie pas la mise en page » a pour objectifs :
+*Limiter les difficultés à cliquer sur un lien lorsque celui-ci occupe plus d’espace en mode survolé ou activé.
+*Limiter les effets de clignotement ou de déplacement de contenus lors du survol d’un lien ou de sa prise de focus clavier.
+|La bonne pratique « Tous les hyperliens internes du site sont valides » a pour objectifs :
+*Éviter les erreurs 404 en cours de navigation.
+*Faciliter un accès rapide à tous les contenus.
+|Qu’est-ce qu’une splash screen ?
+*Fenêtre transitoire affichée avant l’accès au contenu cible, nécessitant soit d’attendre sa fermeture automatique soit de procéder à sa fermeture manuelle pour pouvoir consulter le contenu visé.
+|La bonne pratique « Le texte des documents PDF internes est sélectionnable » a pour objectifs :
+*Permettre le référencement des contenus des documents PDF.
+*Garantir la lisibilité des contenus des documents PDF.
+*Faciliter la manipulation et la réutilisation du contenu des documents PDF.
+|La bonne pratique « Un lexique ou un glossaire adapté au public visé explique le vocabulaire sectoriel ou technique » a pour objectifs :
+*Améliorer le référencement sur des mots-clés ou expressions techniques.
+*Faciliter l’utilisation d’un service.
+*Permettre aux utilisateurs de comprendre les contenus sectoriels ou à caractère technique.
+|Qu’est-ce qu’un Fil d’Ariane ?
+*Indication de la position courante de la page consultée dans l\'arborescence des contenus du site, sous la forme d\'une succession de liens partant de l\'accueil et reflétant la structure des rubriques et sous-rubriques.
+|La bonne pratique « Les hyperliens de même nature ont des couleurs, des formes et des comportements identiques sur toutes les pages » a pour objectifs :
+*Accélérer l’apprentissage du fonctionnement de l’interface.
+*Améliorer l’identification des liens et de leurs fonctions respectives.
+|La bonne pratique « Le site n’impose pas d’interdiction ou de restriction à la mise en place des liens entrants » a pour objectifs :
+*Augmenter la visibilité du site pour les utilisateurs.
+*Faciliter le référencement à travers l’obtention de backlinks.
+|La bonne pratique « La taille des fichiers internes proposés en téléchargement est indiquée » a pour objectifs :
+*Permettre aux utilisateurs de différer le téléchargement en connexion bas débit ou mobile.
+*Informer de façon préventive les utilisateurs sur la quantité de données à télécharger.
+|La bonne pratique « Le titre de chaque page permet d’identifier son contenu » a pour objectifs :
+*Améliorer le référencement des pages et leur présentation dans les moteurs de recherche
+*Permettre aux utilisateurs d’identifier immédiatement la nature des contenus de chaque page dans les onglets, les favoris, dans la fenêtre du navigateur ou encore dans les lecteurs d’écran.
+|Qu’est-ce qu’un hyperlien relatif ?
+*Lien dont l’URL finale dépend de la page ou du contenu dans lequel il est présent.
+|Qu’est-ce que le focus clavier ?
+*Manifestation visuelle de la prise de focus d’un contenu interactif (lien, contrôle ou au champ de formulaire, etc.) lors de la navigation au clavier.
+|La bonne pratique « Les informations relatives aux droits de copie et de réutilisation sont accessibles depuis toutes les pages » a pour objectifs :
+*Informer les utilisateurs sur les conditions de copie et de réutilisation.
+*Informer les utilisateurs sur les conditions sous lesquelles sont publiés les contenus.
+|Qu’est-ce que la négociation de contenu ?
+*Echange d’information entre le client et le serveur, via HTTP, permettant de déterminer quel contenu répond aux contraintes exprimées par l’utilisateur via le paramétrage de son navigateur.
+|Qu’est-ce que l’art ASCII ?
+*Images simulées à l’aide de combinaisons de caractères.
+|Qu’est-ce qu’une page d’erreur 403 ?
+*Page Web envoyée à l’utilisateur en réponse à une requête entraînant une erreur du type « Accès non autorisé ».
+|La bonne pratique « La soumission d’un formulaire est suivie d’un message indiquant la réussite ou non de l’action souhaitée » a pour objectifs :
+*Fournir à l’utilisateur un retour immédiat et explicite sur l’action qu’il vient d’effectuer.
+*Éviter la frustration d’un utilisateur qui pense que le processus s’est déroulé avec succès alors qu’il y a eu un problème.
+|Qu’est-ce qu’un tableau de mise en forme ?
+*Technique de gestion de l’affichage des contenus de la page reposant sur le détournement des éléments HTML de tableaux de données pour parvenir à une mise en forme selon une grille.
+|La bonne pratique « Le code source de chaque page ne contient pas d’éléments détournés à des fins de présentation » a pour objectif :
+*Permettre l’exploitation pertinente du code source par les agents utilisateurs (les navigateurs, les robots d’indexation des moteurs de recherche, les plages brailles, etc.).
+|La bonne pratique « L’information n’est pas véhiculée uniquement par la couleur » a pour objectif :
+*Permettre l’accès à l’information pour les utilisateurs dont le navigateur, la plateforme, l’aide technique ou encore le handicap (comme le daltonisme) ne permettent pas de visualiser ou de différencier les couleurs.
+|Qu’est-ce qu’un tooltip ?
+*Information affichée en surimpression du contenu de la page, le plus souvent lors du survol d’un contenu.
+|La bonne pratique « Les textes pouvant être mis en forme via des styles ne sont pas remplacés par des images » a pour objectif :
+*Faciliter l’adaptation du rendu au media (mobile, etc.) ou aux besoins de l’utilisateur (agrandissement de la taille des caractères, modification des couleurs, de la police, de la graisse, de la justification, etc.).
+|La bonne pratique « Le contenu et le sens de chaque page ne sont pas altérés lorsque les styles sont désactivés » a pour objectifs :
+*Permettre la compréhension des contenus par les utilisateurs dont le navigateur n’appliquera pas les feuilles de style du site ou dont le mode d’accès n’est pas visuel.
+*Séparer rigoureusement les contenus de la présentation pour favoriser leur interopérabilité.
+|Qu’est-ce qu’une étiquette de formulaire ?
+*Indication accessible au survol d’un champ de saisie de formulaire, destinée à informer l’utilisateur sur la nature de la saisie attendue ou le rôle du champ.
+|La bonne pratique « La première occurrence d’une abréviation ou d’un acronyme dans le corps de chaque page donne accès à sa signification » a pour objectifs :
+*Permettre à l’utilisateur d’accéder rapidement à la signification d’un sigle.
+*Favoriser le référencement du contenu.
+|Qu’est-ce qu’Apache ?
+*Logiciel libre de serveur Web.
+|Qu’est-ce qu’une page d’erreur 404 ?
+*Page Web envoyée à l’utilisateur en réponse à une requête entraînant une erreur du type « Ressource non trouvée ».
+|Qu’est-ce qu’Unicode ?
+*Standard de représentation numérique des caractères.
+|Qu’est-ce qu’un jeu de cadres ?
+*Utilisation des éléments HTML FRAMESET et FRAME pour composer une page Web finale à partir de plusieurs ressources HTML combinées.
+|La bonne pratique « Chaque contenu audio et vidéo est accompagné de sa transcription textuelle » a pour objectifs :
+*Permettre aux utilisateurs qui ne peuvent accéder au son ou à l’image proposés d’accéder à une transcription textuelle servant d’alternative.
+*Permettre l’exploitation de l’information par des robots en améliorant ainsi son indexation et son référencement, ou encore permettre sa traduction par des outils linguistiques en ligne.
+|Qu’est-ce qu’un tableau de données ?
+*Représentation de séries de données textuelles sous la forme d’un tableau dont les lignes et/ou colonnes se lisent à l’aide de leur(s) en-têtes.
+|La bonne pratique « Le codage de caractères utilisé est UTF-8 » a pour objectifs :
+*Recourir à un jeu de caractères international.
+*Prévenir les défauts d’affichage.
+|La bonne pratique « Les dates sont présentées dans des formats explicites » a pour objectif :
+*Éviter aux utilisateurs les risques de méprise sur le sens d’une date.
+|La bonne pratique « Les éléments visuellement présentés sous forme de liste sont balisés de façon appropriée dans le code source » a pour objectifs :
+*Permettre l’identification des listes par les navigateurs et les aides techniques et donc leur restitution appropriée afin de faciliter leur compréhension par les utilisateurs.
+*Améliorer la sémantique du contenu des pages et sa réutilisabilité.
+|La bonne pratique « L’emplacement des blocs de navigation est cohérent dans le code source de toutes les pages » a pour objectif :
+*Faciliter la mémorisation de l’organisation des pages et de la navigation pour les utilisateurs de lecteurs d’écran ou pour ceux naviguant au clavier.
+|La bonne pratique « En cas de rejet des données saisies dans un formulaire, les raisons du rejet sont indiquées à l’utilisateur » a pour objectifs :
+*Éviter la frustration de l’utilisateur face à une erreur dont il n’aurait pas la solution immédiate.
+|Qu’est-ce que la linéarisation du contenu ?
+*Résultat du rendu final d’une page Web non pas dans l’ordre apparent que l’utilisateur peut déduire de son affichage CSS à l’écran, mais dans l’ordre réel où les contenus qui la composent se trouvent dans son code source.
+|Qu’est-ce qu’une description étendue ?
+*Complément de l’alternative textuelle d’une image de contenu, quand il s’agit d’une image véhiculant une information trop complexe pour que l’alternative textuelle suffise à la restituer entièrement.
+|La bonne pratique « Les captchas audio peuvent être réécoutés à volonté » a pour objectifs :
+*Faciliter l’accès aux contenus ou services protégés par des captchas pour les utilisateurs ne pouvant exploiter les captchas graphiques ;
+*Faciliter l’utilisation des captchas audio.
+|Qu’est qu’un élément meta ?
+*Élément HTML meta (balise en HTML, en XHTML). Il permet d’associer à la page Web une métadonnée définie par son attribut CONTENT.
+|La bonne pratique « Le code source de chaque page contient une métadonnée qui définit le jeu de caractères » a pour objectifs :
+*Prévenir le risque de problèmes d’affichage de caractères lié à un fonctionnement parfois hasardeux des mécanismes de rattrapage des navigateurs quand ils ne disposent pas de l’information nécessaire via l’en-tête HTTP content-type.
+*Permettre un affichage hors-ligne correct des pages en indiquant au navigateur quel est le jeu de caractères utilisé.
+|La bonne pratique « Le code source de chaque page débute par une déclaration de type de document dont la syntaxe est conforme à celles recommandées par le W3C » a pour objectifs :
+*Favoriser un rendu prévisible quel que soit le navigateur (les navigateurs s’appuient sur la syntaxe précise de la DTD pour adopter un mode de rendu CSS).
+*Faciliter la validation du code source.
+|La bonne pratique « Les objets inclus sont dotés d’une alternative appropriée » a pour objectifs :
+*Faciliter l’exploitation de ces contenus par les robots (référencement en particulier).
+*Fournir un accès à l’information pour les utilisateurs dont le navigateur ou la plateforme ne supporte pas l’inclusion d’objets ou les technologies utilisées dans les objets inclus.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Les liens d’accès aux versions traduites pointent directement vers la traduction de la page courante.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*La navigation sur le site ne provoque pas l’ouverture de fenêtres surgissantes (popups).
+|Cochez l’objectif de la bonne pratique « Le soulignement est réservé aux hyperliens » :
+*Éviter les clics inutiles de la part de l’utilisateur
+|Cocher les 2 phrases exactes à propos de l’utilité des bonnes pratiques :
+*Une bonne pratique doit être utile aux utilisateurs du site.
+*Une même bonne pratique peut s’appliquer sur des sites différents.
+|Je suis intégrateur Web (HTML CSS). Les bonnes pratiques me concernent-elles ?
+*Oui : le choix du balisage approprié, la structuration globale des pages et la construction des styles CSS a notamment un impact important sur le référencement, l’accessibilité et l’adaptation aux médias (desktop, mobile).
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Chaque iframe est doté d’une description.
+|Je travaille au sein du service juridique de l’entreprise publiant le site :
+*Il est bon que je connaisse les bonnes pratiques, mais cela ne me dispense pas de vérifier les exigences légales.
+|Cocher le moyen le plus recommandé pour l’intégration des objectifs qualité dans un cahier des charges :
+*Intégrer dans le cahier des charges un ensemble choisi de règles qualité précisant les exigences fonctionnelles.
+|En tant que propriétaire d’une boutique en ligne, le respect de la bonne pratique « Le site accepte au moins deux moyens de paiement » me permet :
+*De proposer aux utilisateurs de choisir le mode de paiement qui leur convient le mieux dans leur contexte.
+|Quel problème qualité majeur pose immédiatement ce formulaire ?
+*L’utilisateur est-il averti du format de saisie de la date ?
+|Cocher l’étape du processus de conception où devra en priorité être prise en compte la bonne pratique « Le contenu de chaque page est organisé selon une structure de titres et sous-titres hiérarchisée. » :
+*Conception des intégrations HTML CSS
+|Cocher la phrase exacte à propos du rôle du W3C :
+*L’objectif du W3C est de conduire le Web à son plein potentiel en développant des protocoles et des recommandations qui garantissent son développement à long terme.
+|Cocher la définition correcte d’une icône de favori (favicon) :
+*Icône hébergée sur le site, associée à un nom de domaine ou de sous-domaine, exploitée par le navigateur pour l’identification du site dans les onglets, les signets ou favoris, l’historique de navigation, etc.
+|Le site d’une société est divisé en 2 parties visuellement distinctes. L’une est la partie e-commerce où sont vendus des produits. L’autre est le blog de la société. Cocher la phrase qui s’applique à ce cas.
+*Les bonnes pratiques peuvent s’appliquer aux 2 parties du site de la société.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Un plan du site est accessible depuis chaque page.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Si le site est réservé ou destiné à un public spécifique, ce public est mentionné au moins sur la page d’accueil.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Les icônes de navigation sont accompagnées d’une légende explicite.
+|Cocher la définition correcte du terme Fenêtre modale :
+*Fenêtre simulée en superposition sur le contenu de la page.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*L’identité de la personne ou du service responsable des contenus est indiquée.
+|Lorsqu’un prototype prévoit la présence d’un tooltip, il s’agit :
+*D’une information affichée en surimpression de la page, le plus souvent lors du survol d’un contenu.
+|Quel problème qualité majeur apparaît immédiatement dans cette fenêtre modale affichant une vue agrandie du produit ?
+*Un bouton de fermeture explicite est-il présent ?
+|Cocher la phrase indiquant pourquoi une partie des critères sont manuels :
+*Un robot logiciel ne peut pas évaluer des questions de pertinence d’un contenu textuel.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Le site n’emploie pas la technique des jeux de cadres.
+|Le V de « Visibilité » dans le modèle VPTCS de la qualité Web correspond notamment (2 réponses) :
+*À la communication sur le site par exemple par voie d’affichage dans le métro.
+*Au référencement du site (SEO).
+|Cocher l’expression définissant l’enjeu de l’évaluation qualité à l’étape du maquettage graphique :
+*De réduire les risques de non qualité le plus tôt possible au cours du projet.
+|Je suis responsable projet dans une agence Web. Il est prévu un splash screen à l’affichage de la page d’accueil du futur site. De quoi s’agit-il ?
+*D’un contenu transitoire affiché avant l’accès à la page nécessitant d’attendre sa fermeture automatique. Il peut comporter des publicités, un sondage, etc.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*L’extension utilisée est cohérente avec l’identité, l’activité, la zone géographique couverte ou avec le nom de domaine.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*La page d’accueil expose la nature des contenus et services proposés.
+|Cocher la définition correcte d’un template :
+*Les templates permettent de mutualiser la gestion de la structure des pages.
+|Cochez la raison pour laquelle la bonne pratique « La durée des contenus vidéo ou audio est indiquée » est utile :
+*Car, quel que soit son contexte (connexion, matériel, etc.), l’utilisateur doit pouvoir décider en toute connaissance de cause de consulter ou de télécharger ou non le contenu concerné.
+|Cocher la définition correcte du terme Contenus compressés :
+*Ressources de type texte (fichiers HTML, CSS, Javascript, XML) qui sont compressées par le serveur avant envoi au client.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Les iframes sont dotés d’un titre explicite.
+|Cocher la bonne pratique concernant les captchas, qui couvre le risque de non-qualité le plus grave :
+*Les captchas sont accompagnés d’une solution alternative d’accès.
+|Cocher la phrase exacte à propos de l’impact du designer sur la qualité du site et des services en ligne :
+*L’impact des choix graphiques sur la qualité du site ou du service en ligne est majeur, aussi bien en matière d’utilisabilité que de lisibilité.
+|Cocher la définition correcte du terme Focus clavier :
+*Manifestation visuelle de la prise de focus d’un contenu interactif (lien, contrôle ou au champ de formulaire, etc.) lors de la navigation au clavier.
+|Cocher les 2 expressions définissant l’enjeu de l’évaluation qualité à l’étape des templates HTML CSS :
+*De réduire les risques de non qualité lors de la mise en production.
+*De déployer via le CMS une structure de contenu sémantique.
+|Cocher les 4 objectifs majeurs des bonnes pratiques e-commerce :
+*de réduire les abandons en cours de commande.
+*d’anticiper le besoin d’information prévisible de l’utilisateur.
+*de donner à l’utilisateur la maîtrise du contenu de son panier.
+*de favoriser la relation de confiance avec l’utilisateur.
+|Cocher les trois mesures qui ajoute de la qualité à l’expérience utilisateur :
+*Sécurisation des échanges de données sensibles.
+*Compression et optimisation des ressources adressées au navigateur.
+*Paramétrage de la gestion de pages d’erreur personnalisée.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*La navigation au clavier s’effectue dans un ordre prévisible.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Chaque numéro de téléphone est indiqué au format international.
+|En tant que propriétaire d’une boutique en ligne, le respect de la bonne pratique « Les produits indisponibles font l’objet d’une différenciation visuelle et textuelle » me permet :
+*D’éviter l’effet de déception si un utilisateur débute une procédure de commande et s’aperçoit tardivement de l’indisponibilité du produit désiré.
+|Cocher la phrase exacte concernant les attentes utilisateur en matière de plan de site :
+*Le plan de site reste a priori nécessaire même dans le cas d’un mini-site événementiel ou site-vitrine ayant un très petit nombre de pages, dès que toutes les pages internes ne sont pas directement accessibles depuis l’accueil.
+|Le P de « Perception » dans le modèle VPTCS de la qualité Web correspond notamment (2 réponses) :
+*À la qualité de contraste et de lisibilité des pages du site sur un écran dans des conditions diverses.
+*À la cohérence de la charte graphique sur l’ensemble des pages du site.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Chaque page affiche une information permettant de connaître son emplacement dans l’arborescence du site.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Le site ne comporte pas de liens internes vers des pages en construction.
+|Cocher la définition correcte de la qualité Web :
+*La qualité Web est l’aptitude d’un service en ligne à satisfaire des exigences implicites ou explicites.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Si toutes les pages du site ne sont pas directement accessibles sur la page d’accueil, un plan du site est accessible sur chaque page.
+|Quelle question qualité majeure pose immédiatement cette page ?
+*Quelle est la période de validité de la promotion ?
+|Je travaille au sein du service juridique de l’entreprise publiant le site :
+*Il est bon que je connaisse les bonnes pratiques, mais cela ne me dispense pas de vérifier les exigences légales.
+|Je décide de m’inscrire à une newsletter. Lorsque j’ai validé le formulaire d’inscription, le site doit :
+*Afficher une page m’informant qu’un mail de demande de confirmation a été envoyé à l’adresse que j’ai indiquée.
+|La page d’erreur 404 visible ici répond-elle aux exigences qualité Web ?
+*Non : il n’est pas possible de poursuivre la navigation sur le site.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Le focus clavier n’est ni supprimé ni masqué.
+|Cocher les 2 phrases exactes à propos de l’utilité des bonnes pratiques :
+*Une bonne pratique doit être utile aux utilisateurs du site.
+*Une même bonne pratique peut s’appliquer sur des sites différents.
+|Cocher la description du prototypage :
+*Établit le zonage et les composants types des pages.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Le nom du site et/ou le nom de l’auteur sont indiqués sur chaque page.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*La langue des fichiers en téléchargement est précisée lorsqu’elle diffère de celle de la page d’origine.
+|Je cherche un restaurant où réserver, avec ma tablette 3G :
+*Si le site avait respecté la bonne pratique sur le plan de site, j’aurais quand même pu trouver la page des réservations malgré le menu de navigation en Flash.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*L’utilisateur est averti des ouvertures de nouvelles fenêtres.
+|Le site d’une société est divisé en 2 parties visuellement distinctes. L’une est la partie e-commerce où sont vendus des produits. L’autre est le blog de la société. Cocher la phrase qui s’applique à ce cas.
+*Les bonnes pratiques peuvent s’appliquer aux 2 parties du site de la société.
+|Cocher la définition correcte du terme fichier Sitemap :
+*Représentation au format XML de l’arborescence des contenus d’un site Web, destiné aux robots d’indexation.
+|Cocher la description de l’intégration :
+*Produit des gabarits de pages-types au format HTML CSS Javascript.
+|Quelle question qualité majeure pose immédiatement ce formulaire ?
+*Les libellés soulignés sont-ils des liens ?
+|Cocher les 2 expressions correspondant à un effet des CMS sur la qualité Web :
+*Séparation des métiers
+*Industrialisation
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Si toutes les pages du site ne sont pas directement accessibles depuis le plan du site, un moteur de recherche interne est accessible depuis chaque page.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*La navigation sur le site ne provoque pas l’ouverture de fenêtres surgissantes (popups).
+|Cochez la phrase exacte sur ce que favorise l’application des bonnes pratiques qualité sur un site :
+*L’amélioration de l’expérience utilisateur sur ce site.
+|En tant que propriétaire d’une boutique en ligne, le respect de la bonne pratique « Le site accepte au moins deux moyens de paiement » me permet :
+*De proposer aux utilisateurs de choisir le mode de paiement qui leur convient le mieux dans leur contexte.
+|Quelle question qualité majeure pose immédiatement cette page ?
+*Tous les liens sont-ils explicites ?
+|Pour le propriétaire d’un site, le déclenchement automatique des sons, vidéos et animations au chargement de la page Web :
+*Est une pratique à proscrire : il faut laisser à l’utilisateur le contrôle de l’interface sonore et visuelle lors de la consultation du site, et ne pas le surprendre avec la diffusion inattendue d’un contenu audio.
+|Quel problème qualité majeur apparaît immédiatement dans cette fenêtre modale affichant une vue agrandie du produit ?
+*Un bouton de fermeture explicite est-il présent ?
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*La langue des fichiers en téléchargement est précisée lorsqu’elle diffère de celle de la page d’origine.
+|Cocher les trois mesures qui ajoute de la qualité à l’expérience utilisateur :
+*Paramétrage de la gestion de pages d’erreur personnalisée.
+*Compression et optimisation des ressources adressées au navigateur.
+*Sécurisation des échanges de données sensibles.
+|Je suis responsable projet dans une agence Web. Il est prévu un splash screen à l’affichage de la page d’accueil du futur site. De quoi s’agit-il ?
+*D’un contenu transitoire affiché avant l’accès à la page nécessitant d’attendre sa fermeture automatique. Il peut comporter des publicités, un sondage, etc.
+|Cocher la définition correcte du terme Fenêtre modale :
+*Fenêtre simulée en superposition sur le contenu de la page.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*L’identité de la personne ou du service responsable des contenus est indiquée.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*La page d’accueil expose la nature des contenus et services proposés.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*L’extension utilisée est cohérente avec l’identité, l’activité, la zone géographique couverte ou avec le nom de domaine.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Les liens d’accès aux versions traduites pointent directement vers la traduction de la page courante.
+|Cocher les 3 bonnes pratiques évaluables lors de la validation éditoriale :
+*Le site n’interdit pas la mise en place de liens entrants.
+*Le format des fichiers proposés en téléchargement est indiqué.
+*Le titre de chaque page permet d’identifier son contenu.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Si toutes les pages du site ne sont pas directement accessibles sur la page d’accueil, un plan du site est accessible sur chaque page.
+|Je décide de m’inscrire à une newsletter. Lorsque j’ai validé le formulaire d’inscription, le site doit :
+*Afficher une page m’informant qu’un mail de demande de confirmation a été envoyé à l’adresse que j’ai indiquée.
+|Je cherche un restaurant où réserver, avec ma tablette 3G :
+*Si le site avait respecté la bonne pratique sur le plan de site, j’aurais quand même pu trouver la page des réservations malgré le menu de navigation en Flash.
+|Cocher la définition correcte d’un template :
+*Les templates permettent de mutualiser la gestion de la structure des pages.
+|Cocher la définition correcte du terme Lien d’accès rapide :
+*Liens placés en début du contenu de la page, permettant lors de la navigation clavier d’accéder rapidement aux zones de contenu, de menu ou de recherche sans avoir à parcourir l’ensemble des liens et autres éléments d’interaction qui les précèdent.
+|Quelle est la véritable bonne pratique, utile, universelle, réaliste, vérifiable et consensuelle ?
+*Chaque page affiche une information permettant de connaître son emplacement dans l’arborescence du site.
+|Quelle question qualité majeure pose immédiatement cette page ?
+*Quelle est la période de validité de la promotion ?
+|Cocher la définition correcte de la qualité Web :
+*La qualité Web est l’aptitude d’un service en ligne à satisfaire des exigences implicites ou explicites.
+|Quelle question qualité majeure pose immédiatement cette page produit ?
+*La période et les conditions de validité des offres spéciales et promotions sont-elles indiquées ?
+|La période et les conditions de validité des offres spéciales et promotions sont-elles indiquées ?
+*D’identifier la date réelle à laquelle le bien commandé pourra être en ma possession.
+|Le P de « Perception » dans le modèle VPTCS de la qualité Web correspond notamment (2 réponses) :
+*À la cohérence de la charte graphique sur l’ensemble des pages du site.
+*À la qualité de contraste et de lisibilité des pages du site sur un écran dans des conditions diverses.
+|La bonne pratique « Le site n’impose pas de redirection ou de rafraîchissement automatique côté client » a pour objectifs :
+*Permettre aux utilisateurs de conserver la maîtrise de leur environnement de travail.
+*Éviter des coupures ou des pertes d’information en cours de lecture, notamment pour les utilisateurs équipés de lecteurs d’écran qu’un rafraîchissement ou une redirection temporisée interromprait lors de la consultation.
+|La désinscription aux newsletters…
+*est possible depuis le site.
+|La bonne pratique « Le site fournit aux utilisateurs la possibilité de connaître les nouveaux contenus ou services » a pour objectif :
+*Permettre aux utilisateurs d’identifier immédiatement les nouveaux contenus ou services en ligne.
+|Je travaille au sein du service juridique de l’entreprise publiant le site :
+*Il est bon que je connaisse les bonnes pratiques, mais cela ne me dispense pas de vérifier les exigences légales.
+|Lorsqu’un prototype prévoit la présence d’un tooltip, il s’agit :
+*D’une information affichée en surimpression de la page, le plus souvent lors du survol d’un contenu.
+|Qu’est-ce que la minification d’un fichier ?
+*Réduction de la taille des fichiers textes de type CSS et javascript, obtenue par la suppression des commentaires et la réduction a minima de la syntaxe.
+|La bonne pratique « Les hyperliens de même nature ont des couleurs, des formes et des comportements identiques sur toutes les pages » a pour objectifs :
+*Améliorer l’identification des liens et de leurs fonctions respectives.
+*Accélérer l’apprentissage du fonctionnement de l’interface.
+|Cocher les 2 expressions définissant l’enjeu de l’évaluation qualité à l’étape des templates HTML CSS :
+*De réduire les risques de non qualité lors de la mise en production.
+*De déployer via le CMS une structure de contenu sémantique.
+|Cocher les 3 qualificatifs et expressions qui caractérisent la démarche de qualité Web :
+*Exigences mesurables.
+*Approche transversale à travers les différents métiers
+*Transformation d’exigences génériques en critères objectifs.
+|La bonne pratique « Le titre de chaque page permet d’identifier son contenu » a pour objectifs :
+*Améliorer le référencement des pages et leur présentation dans les moteurs de recherche
+*Permettre aux utilisateurs d’identifier immédiatement la nature des contenus de chaque page dans les onglets, les favoris, dans la fenêtre du navigateur ou encore dans les lecteurs d’écran.
+| Permettre aux utilisateurs d’identifier immédiatement la nature des contenus de chaque page dans les onglets, les favoris, dans la fenêtre du navigateur ou encore dans les lecteurs d’écran.
+*Favoriser le référencement du contenu.
+*Permettre à l’utilisateur d’accéder rapidement à la signification d’un sigle.
+|La bonne pratique « Un courriel indiquant la référence de la transaction et les données de la commande est envoyé suite à la validation » a pour objectifs :
+*Permettre à l’utilisateur de conserver un historique de la transaction ailleurs que dans le site
+*Donner à l’utilisateur une confirmation des informations relatives à la commande.
+|La bonne pratique « Les contenus ou fichiers destinés à des espaces publics peuvent être vérifiés avant leur envoi définitif » a pour objectif :
+*Permettre à l’utilisateur de vérifier sa saisie en contexte et, si nécessaire, de la corriger avant envoi.
+|Qu’est-ce qu’un captcha ?
+*Processus de validation associé en général à un formulaire afin de déjouer les robots et les outils de spam. Les captchas sont des tests de Turing, que seul un humain peut réussir en théorie.
+|La bonne pratique « Une adresse de livraison différente de l’adresse de facturation peut être spécifiée » a pour objectif :
+*Permettre aux utilisateurs de faire livrer un achat sur le lieu de leur choix.
+|La bonne pratique « Les dates sont présentées dans des formats explicites » a pour objectif :
+*Éviter aux utilisateurs les risques de méprise sur le sens d’une date.
+|La bonne pratique « La période et les conditions de validité des offres spéciales et promotions sont indiquées » a pour objectif :
+*Permettre aux utilisateurs d’identifier la période au cours de laquelle ils peuvent bénéficier des offres proposées.
+|La bonne pratique « Tous les hyperliens internes du site sont valides » a pour objectifs :
+*Éviter les erreurs 404 en cours de navigation.
+*Faciliter un accès rapide à tous les contenus.
+|La bonne pratique « La nature et les caractéristiques quantifiables des produits et services sont indiquées » a pour objectif :
+*La bonne pratique « La nature et les caractéristiques quantifiables des produits et services sont indiquées » a pour objectif :
+|La bonne pratique « Si le site propose un espace personnel ou abonné, il est possible de sauvegarder les contenus personnels dans un format standard » a pour objectifs :
+*Éviter à l’utilisateur d’éventuelles saisies redoublées en cas de réutilisation des contenus.
+*Permettre l’archivage des contenus créés par l’utilisateur.
+|La bonne pratique « L’emplacement des blocs de navigation est cohérent dans le code source de toutes les pages » a pour objectif :
+*Faciliter la mémorisation de l’organisation des pages et de la navigation pour les utilisateurs de lecteurs d’écran ou pour ceux naviguant au clavier.
+|Qu’est-ce qu’une transcription textuelle ?
+*Contenu textuel associé à des objets non textuels inclus dans la page (infographies, vidéos, contenus audios) et équivalent à ceux-ci en terme d’information.
+|En tant que propriétaire d’une boutique en ligne, le respect de la bonne pratique « Les produits indisponibles font l’objet d’une différenciation visuelle et textuelle » me permet :
+*D’éviter l’effet de déception si un utilisateur débute une procédure de commande et s’aperçoit tardivement de l’indisponibilité du produit désiré.
+|Qu’est-ce qu’un lien d’accès rapide ?
+*Liens placés en début du contenu de la page, permettant lors de la navigation clavier d’accéder rapidement aux zones de contenu, de menu ou de recherche sans avoir à parcourir l’ensemble des liens et autres éléments d’interaction qui les précèdent.
+|Cocher le moyen le plus recommandé pour l’intégration des objectifs qualité dans un cahier des charges :
+*Intégrer dans le cahier des charges un ensemble choisi de règles qualité précisant les exigences fonctionnelles.
+|La bonne pratique « Les captchas audio peuvent être réécoutés à volonté » a pour objectifs :
+*Faciliter l’accès aux contenus ou services protégés par des captchas pour les utilisateurs ne pouvant exploiter les captchas graphiques ;
+*Faciliter l’utilisation des captchas audio.
+|La phrase « La distinction visuelle des liens doit être vérifiée pour la première fois lors de la phase de développement » est-elle vraie ou fausse ?
+*Faux, c’est en phase de design, voire de prototypage.
+|La bonne pratique « Le texte des documents PDF internes est sélectionnable » a pour objectifs :
+*Garantir la lisibilité des contenus des documents PDF.
+*Faciliter la manipulation et la réutilisation du contenu des documents PDF.
+*Permettre le référencement des contenus des documents PDF.
+|Pour le propriétaire d’un site, le déclenchement automatique des sons, vidéos et animations au chargement de la page Web :
+*Est une pratique à proscrire : il faut laisser à l’utilisateur le contrôle de l’interface sonore et visuelle lors de la consultation du site, et ne pas le surprendre avec la diffusion inattendue d’un contenu audio.
+|Qu’est-ce qu’un jeu de cadres ?
+*Utilisation des éléments HTML FRAMESET et FRAME pour composer une page Web finale à partir de plusieurs ressources HTML combinées.
+|Qu’est-ce qu’un Whois ?
+*Service d’information sur les domaines Web.
+|La bonne pratique « Chaque demande d’information fait l’objet d’un accusé de réception » a pour objectifs :
+*Informer les utilisateurs de la prise en compte de leur demande.
+*Permettre aux utilisateurs d’obtenir une confirmation archivable de la bonne réception de leur demande d’information.
+|Qu’est-ce qu’un contenu compressé ?
+*Ressources de type texte (fichiers HTML, CSS, javascript, XML) qui sont compressés par le serveur avant envoi au navigateur, qui les décompresse avant de les exécuter ou de les afficher.
+|Je suis responsable projet dans une agence Web. Il est prévu un splash screen à l’affichage de la page d’accueil du futur site. De quoi s’agit-il ?
+*D’un contenu transitoire affiché avant l’accès à la page nécessitant d’attendre sa fermeture automatique. Il peut comporter des publicités, un sondage, etc.
+|Pour le propriétaire d’un site, le déclenchement automatique des sons, vidéos et animations au chargement de la page Web :
+*Est une pratique à proscrire : il faut laisser à l’utilisateur le contrôle de l’interface sonore et visuelle lors de la consultation du site, et ne pas le surprendre avec la diffusion inattendue d’un contenu audio.
+|La bonne pratique « Les espaces publics proposent au moins un moyen de signaler les abus » a pour objectif :
+*Faciliter le signalement de contenus illégaux ou inappropriés.
+*Limiter les risques de consultation de contenus illégaux ou inappropriés.
+|La bonne pratique « Le contenu et le sens de chaque page ne sont pas altérés lorsque les styles sont désactivés » a pour objectifs :
+*Permettre la compréhension des contenus par les utilisateurs dont le navigateur n’appliquera pas les feuilles de style du site ou dont le mode d’accès n’est pas visuel.
+*Séparer rigoureusement les contenus de la présentation pour favoriser leur interopérabilité.
+|La bonne pratique « L’information n’est pas véhiculée uniquement par la couleur » a pour objectif :
+*Permettre l’accès à l’information pour les utilisateurs dont le navigateur, la plateforme, l’aide technique ou encore le handicap (comme le daltonisme) ne permettent pas de visualiser ou de différencier les couleurs.
+|Je décide de m’inscrire à une newsletter. Lorsque j’ai validé le formulaire d’inscription, le site doit :
+*Afficher une page m’informant qu’un mail de demande de confirmation a été envoyé à l’adresse que j’ai indiquée.
+|Qu’est-ce qu’une alternative textuelle ?
+*Contenu fourni en alternative aux ressources non textuelles : images, boutons graphiques, objets flash, etc. L’alternative sera utilisé par le navigateur ou l’aide technique (lecteur d’écran par exemple) quand ces ressources ne peuvent pas être restituées afin de reproduire l’information apportée par celles-ci.
+|La bonne pratique « Les éléments visuellement présentés sous forme de liste sont balisés de façon appropriée dans le code source » a pour objectifs :
+*Améliorer la sémantique du contenu des pages et sa réutilisabilité.
+*Permettre l’identification des listes par les navigateurs et les aides techniques et donc leur restitution appropriée afin de faciliter leur compréhension par les utilisateurs.
+|Cocher la définition correcte de la qualité Web :
+*La qualité Web est l’aptitude d’un service en ligne à satisfaire des exigences implicites ou explicites.
+|Je suis designer Web : les bonnes pratiques me concernent-elles ?
+*Oui : je dois veiller d’une part à éviter certaines erreurs proprement graphiques et mes choix ont d’autre part des conséquences sur la réalisation technique lors de l’intégration.
+|La bonne pratique « Les captchas sont accompagnés d’une solution alternative d’accès » a pour objectif :
+*Permettre aux utilisateurs qui ont des difficultés à déchiffrer les images des captchas graphiques ou qui ne peuvent pas les utiliser, d’accéder par un autre moyen aux contenus ou services protégés.
+|Cocher l’étape du processus de conception où devra en priorité être prise en compte la bonne pratique « Le contenu de chaque page est organisé selon une structure de titres et sous-titres hiérarchisée. » :
+*Conception des intégrations HTML CSS
+|Cocher l’étape du processus de conception où devra en priorité être prise en compte la bonne pratique « Les contenus sont présentés avec un contraste suffisant par rapport à leur arrière-plan » :
+*Conception des maquettes graphiques
+|La bonne pratique « Aucun produit ni service annexe n’est ajouté au panier de commande sans que cette action soit déclenchée par l’utilisateur » a pour objectifs :
+*Laisser à l’utilisateur le contrôle de sa commande.
+*Ne pas compromettre la relation de confiance avec l’utilisateur.
+*Éviter toute forme de vente forcée.
+|La bonne pratique « Le contenu de chaque page est organisé selon une structure de titres et sous-titres hiérarchisée » a pour objectifs :
+*Permettre aux machines et aux outils d’indexation d’extraire le plan de chaque page.
+*Permettre aux utilisateurs qui le souhaitent de visualiser la structure du contenu de la page et d’y naviguer.
+|La bonne pratique « Les hyperliens consécutifs sont séparés visuellement » a pour objectif :
+*Éviter les confusions entre deux liens consécutifs.
+|Les nouvelles fenêtres dimensionnées et les fenêtres modales…
+*sont dotées d’un bouton de fermeture explicite.
+|La bonne pratique « Le code source de chaque page contient une métadonnée qui définit le jeu de caractères » a pour objectifs :
+*Permettre un affichage hors-ligne correct des pages en indiquant au navigateur quel est le jeu de caractères utilisé.
+*Prévenir le risque de problèmes d’affichage de caractères lié à un fonctionnement parfois hasardeux des mécanismes de rattrapage des navigateurs quand ils ne disposent pas de l’information nécessaire via l’en-tête HTTP content-type.
+|Qu’est-ce qu’un fichier sitemap ?
+*Représentation au format XML de l’arborescence des contenus d’un site Web, destiné aux robots d’indexation.
+|La navigation au clavier…
+*s’effectue dans un ordre prévisible.
+|La bonne pratique « Le délai de livraison estimé est indiqué avant la validation définitive de la commande » a pour objectif :
+*Permettre aux utilisateurs d’identifier la date réelle à laquelle le bien commandé sera effectivement en leur possession.
+|Qu’est-ce qu’une étiquette de formulaire ?
+*Indication affichée en association avec un champ de saisie de formulaire, destinée à informer l’utilisateur sur la nature de la saisie attendue ou le rôle du champ.
+*Indication accessible au survol d’un champ de saisie de formulaire, destinée à informer l’utilisateur sur la nature de la saisie attendue ou le rôle du champ.
+|La bonne pratique « Les contenus publicitaires ou sponsorisés sont identifiés comme tels » a pour objectifs :
+*Prévenir les risques associés aux conflits d’intérêt.
+*Éviter les confusions entre contenus rédactionnels et publicitaires.
+*Prévenir les risques associés aux conflits d’intérêt.
+|Qu’est-ce qu’un Fil d’Ariane ?
+*Indication de la position courante de la page consultée dans l’arborescence des contenus du site, sous la forme d’une succession de liens partant de l’accueil et reflétant la structure des rubriques et sous-rubriques.
+|La bonne pratique « Le code source de chaque page ne contient pas d’éléments ou d’attributs de présentation » a pour objectifs :
+*Favoriser l’adaptation de la mise en forme des contenus par les agents utilisateurs, selon les besoins de l’utilisateur.
+*Réduire le poids du code source des pages, en incitant à mutualiser et à externaliser les informations de mise en forme grâce à CSS.
+|La bonne pratique « Le site propose au moins deux moyens de contact » a pour objectifs :
+*Optimiser les possibilités de retour d’information de la part des utilisateurs.
+*Éviter de mettre l’utilisateur en difficulté en cas d’indisponibilité ou de problèmes d’utilisation d’un moyen de contact.
+|La bonne pratique « Chaque contenu audio et vidéo est accompagné de sa transcription textuelle » a pour objectifs :
+*Permettre aux utilisateurs qui ne peuvent accéder au son ou à l’image proposés d’accéder à une transcription textuelle servant d’alternative.
+*Permettre l’exploitation de l’information par des robots en améliorant ainsi son indexation et son référencement, ou encore permettre sa traduction par des outils linguistiques en ligne.
+|L’objectif des cookies et les limitations inhérentes à leurs refus sont expliqués. Parmi les affirmations suivantes, laquelle est exacte ?
+*Parce que l’utilisateur est en droit d’être informé sur les informations qui sont écrites par un site Web sur son poste de travail.
+|Choisir l’affirmation exacte concernant l’ouverture d’une nouvelle fenêtre au clic :
+*Déclencher l’ouverture d’une nouvelle fenêtre au clic, c’est possible mais en le signalant aux usagers.
+|La bonne pratique concernant la validité des hyperliens concerne seulement les liens internes, pourquoi ?
+*Parce qu’il est impossible de garantir le fonctionnement d’un lien externe, ne serait-ce que parce que le serveur distant peut être indisponible temporairement.
+|En tant qu’utilisateur, lorsque j’arrive sur une page d’erreur personnalisée où figure le menu principal de navigation :
+*Cela me permet de reprendre la navigation directement.
+|Quel est l’ordre des étapes du processus classique de conception Web ?
+*1. Prototypage 2. Design des pages types 3. Intégration des gabarits 4. Développement dans le CMS 5. Production du contenu éditorial
+|Cocher la définition correcte du terme Fenêtre modale :
+*Fenêtre simulée en superposition sur le contenu de la page.
+|La proposition suivante est-elle admissible comme bonne pratique Opquast « Le site est déclaré à la CNIL » :
+*Non, cette bonne pratique serait uniquement valable en France.
+|La qualité principale d’une page d’erreur 404 personnalisée respectueuse des différentes bonnes pratiques concernés est :
+*De fournir à l’utilisateur au moins un moyen de poursuivre immédiatement sa navigation dans le site.
+|Je suis responsable projet dans une agence Web. Il est prévu une splash screen à l’affichage de la page d’accueil du futur site. De quoi s’agit-il ?
+*D’un contenu transitoire affiché avant l’accès à la page (publicité, sondage, etc.)
+|La bonne pratique « Le code source de chaque page indique la langue principale du contenu »est importante car…
+*Cela permet à tous les outils de traduction automatiques et moteurs de recherche de savoir dans quelle langue la page est-elle écrite.
+|Après que j’ai validé ma commande sur une boutique en ligne, les bonnes pratiques Opquast demandent que :
+*Je reçoive un email me rappelant la référence de la transaction et les données de la commande.
+*Le site m’affiche la référence de la transaction
+|Pour un utilisateur, la bonne pratique « Il est possible de revenir à la page d’accueil depuis toutes les pages » serait-elle utile ?
+*Oui, pour permettre aux utilisateurs d’atteindre facilement la page qui identifie le site et sa nature.
+|La bonne pratique « L’information n’est pas véhiculée uniquement par la couleur » a pour conséquence :
+*De veiller à ce qu’un moyen complémentaire soit systématiquement utilisé en renfort de la couleur, pour que l’information soit perçue dans tous les contextes utilisateurs.
+|Qu’est-ce qu’une alternative textuelle ?
+*Un contenu fourni en alternative aux ressources non textuelles, utilisé par le navigateur ou l’aide technique pour reproduire l’information apportée par celles-ci.
+|Qu’est-ce qu’Apache ?
+*Un logiciel libre de serveur web.
+|L’arborescence du site désigne :
+*L’organisation apparente des pages du site sous forme de rubriques et de sous-rubriques, telle qu’elle est restituée à l’utilisateur.
+|Qu’est-ce qu’un cadre ?
+*L’utilisation des éléments HTML frame ou iframe.
+|Qu’est-ce qu’un captcha ?
+*Une question sous forme graphique, sonore ou logique, destinée à déjouer les robots et les outils de spam.
+|Qu’est-ce qu’un CMS ?
+*Une application serveur utilisée via une interface en ligne, qui permet à une équipe éditoriale de concevoir un site Web et d’en créer le contenu.
+|Qu’est-ce qu’une description étendue (description longue) ?
+*Un complément de l’alternative textuelle d’une image complexe.
+|Qu’est-ce qu’un en-tête HTTP ?
+*Une information échangée entre le client et le serveur dans le cadre du protocole HTTP, lors de l’accès à une page Web.
+|L’indication dans le code HTML de la (ou des) langue(s) dans lesquelles sont rédigés les contenus :
+*Permet une lecture correcte du contenu par un outil de synthèse vocale.
+*Facilite la traduction automatique.
+*Favorise l’indexation des contenus par les moteurs de recherche (Google).
+|La transcription textuelle des sons et vidéos a une valeur ajoutée pour :
+*Les non-voyants, malentendants, les outils d’indexation et même tous les autres publics.
+| Je cherche un restaurant où réserver, avec ma tablette 3G :
+*Si le site avait respecté la bonne pratique sur le plan de site, j’aurais quand même pu trouver la page des réservations malgré le menu de navigation en Flash.
+|Je suis chef de projet Web. Mon travail en matière de qualité consiste d’abord et avant tout
+*À veiller tout au long du projet à l’utilisation du référentiel qualité, en favorisant son appropriation par les différents intervenants métiers.
+|Ma grand-mère veut utiliser Amazon et Twitter :
+*La qualité Web, c’est aussi aider ma grand mère avec des formulaires plus explicites, de l’assistance en cas d’erreur et un site mieux contrasté et plus lisible.
+|Le principal objectif de la démarche qualité Web :
+*La qualité de l’ensemble de l’expérience utilisateur.
+|Qu’est qu’une page d’erreur 403 ?
+*Une page web envoyée à l’utilisateur en réponse à une requête entraînant une erreur du type « Accès non autorisé ».
+|Qu’est-ce qu’une fenêtre dimensionnée ?
+*Fenêtre de taille réduite ouverte dans le navigateur, dont la largeur et/ou la hauteur sont fixées par un script et imposées à l’utilisateur.
+|Qu’est-ce qu’un gestionnaire d’événement ?
+*Une fonctionnalité Javascript destinée à gérer l’interaction sur un élément HTML selon le type d’action de l’utilisateur : clic, action au clavier, survol, etc.
+|Qu’est que la langue de traitement d’une page Web ?
+*La langue dans laquelle sont rédigés par défaut les contenus de la page.
+|Qu’est-ce qu’un lien d’accès rapide ?
+*Des liens placés en début de page, donnant accès aux zones de contenu, de menu ou de recherche.
+|Qu’est-ce que la négociation de contenu ?
+*L’échange d’informations entre le client et le serveur via HTTP permettant de déterminer quel contenu répond aux attentes exprimées par l’utilisateur via le paramétrage de son navigateur.
+|Qu’est qu’un objet inclus ?
+*Un contenu non HTML inclus dans une page Web, généralement via les éléments object, embed, applet.
+|Qu’est-ce que le ratio de contraste ?
+*La mesure du niveau de contraste et de luminosité du texte par rapport à son arrière-plan.
+|Je suis designer, chargé de créer les maquettes graphiques du futur site. On m’indique que les pages de thématiques incluent un flux RSS. De quoi s’agit-il ?
+*C’est la mise à disposition d’un fil d’actualités au format XML afin de permettre par exemple sa réutilisation par d’autres sites web. Concrètement, cela se traduit par une icône lien spécifique à prévoir dans le contenu de la page.
+|Dans une boutique en ligne, l’exigence qualité à propos des produits indisponibles est :
+*De veiller à ce qu’ils fassent l’objet d’une différenciation visuelle et textuelle.
+|Pour la réalisation d’un site présentant une collection de photographies, je dois :
+*Ne pas chercher à adapter la taille de la fenêtre du navigateur aux dimensions des images.
+|Chaque demande d’information fait l’objet d’un accusé de réception permet d’indiquer à l’utilisateur que :
+*La demande d’information est bien parvenue à son destinataire.
+|Cocher l’affirmation exacte à propos de la bonne pratique « Les informations sur la sécurité des transactions sont indiquées », du point de vue de l’utilisateur d’une boutique en ligne :
+*Pouvoir connaître le mode et le niveau de cryptage des données contribue à conforter ma confiance en ce service.
+|Je suis responsable d’un site e-commerce. Les bonnes pratiques me permettent d’abord et avant tout :
+*De réduire les coûts cachés liés aux abandons de commande.
+|Lorsqu’un site de e-commerce propose des offres spéciales et promotions, il est essentiel d’indiquer :
+*La période et les conditions de validité de cette promotion.
+|Trois règles ci-dessous sont des bonnes pratiques qualité Opquast. Lesquelles ?
+*La navigation reste possible sur l’ensemble du site en utilisant exclusivement le clavier.
+*Le serveur envoie les informations permettant la mise en cache des contenus.
+*Les prix affichés mentionnent le détail des taxes et suppléments éventuels ainsi que le montant hors taxes.
+|Pour quelles raisons le texte des documents PDF internes doit-il être sélectionnable ?
+*Afin d’éviter les PDF directement issus du scan d’un document papier, qui ne sont composés que d’images reproduisant le texte, non accessibles et dans lesquelles on ne peut pas faire une recherche de contenu.
+*Cela permet de s’assurer que le contenu de ces PDF peut être référencé par les moteurs de recherche.
+|Les bonnes pratiques Opquast sont universelles au sens où :
+*Elles sont neutres quant aux spécificités locales, par exemple les législations nationales.
+|Cocher les 3 phrases exactes concernant les alternatives textuelles des images :
+*L’alternative textuelle d’une image permet l’affichage d’un texte pendant le chargement des images.
+*L’alternative textuelle d’une image permet aux robots d’exploiter l’information véhiculée par les images.
+*L’alternative textuelle d’une image permet aux utilisateurs placés dans des contextes où les images ne sont pas perceptibles (navigateur texte, lecteur d’écran, navigateur avec images désactivées) de comprendre le sens des images qu’ils ne peuvent voir.
+|Le « V » de Visibilité dans le modèle VPTCS de la qualité Web correspond notamment :
+*À la communication concernant le site, par exemple à l’indication de l’URL du site sur les supports de communication de la société
+*Au référencement du site (SEO).
+*À la communication sur les contenus et services offert par le site via un compte Twitter.
+|Les bonnes pratiques consacrées à la présentation permettent notamment de détecter les risques liés :
+*À des incohérences de la présentation sur l’ensemble des pages.
+|Cocher les 2 phrases exactes concernant CSS :
+*Le format CSS permet de séparer le fond (la structure et le contenu) d’une page web de sa forme (sa mise en page).
+*Le format CSS permet de décliner le rendu selon les medias de restitution.
+|Pour l’utilisateur, le respect de la bonne pratique « La première occurrence d’une abréviation ou d’un acronyme dans le corps de chaque page donne accès à sa signification » a pour valeur ajoutée :
+*D’améliorer le référencement de cette information que je trouverai plus facilement via Google.
+*De me permettre d’accéder rapidement à la signification d’un sigle.
+|Je suis intégrateur Web (HTML CSS). Les bonnes pratiques me concernent-elles ?
+*Oui, en raison de mes décisions techniques lors de la création des gabarits de pages.
+|Cochez les 4 critères requis pour l’acceptation d’une bonne pratique :
+*Être utile.
+*Être consensuelle.
+*Être réaliste.
+*Être vérifiable.
+|Pour l’utilisateur, est ce que le fait que « Le site s’ajoute automatiquement aux favoris (ou signets) de l’utilisateur » est utile ?
+*Non, c’est à moi de décider si je veux mettre une page en favori ou pas.
+|Cocher les 3 phrases exactes concernant les titres de page :
+*Les titres de page doivent permettre aux utilisateurs d’identifier immédiatement le site dans les onglets, les favoris, dans la fenêtre du navigateur.
+*Les titres de page doivent permettre aux utilisateurs d’identifier immédiatement le site dans les lecteurs d’écran.
+*Les titres de page améliorent le référencement du site et sa présentation dans les moteurs de recherche.
+|Pour l’utilisateur, le respect de la bonne pratique « Les dates sont présentées dans des formats explicites » a pour bénéfice :
+*De m’éviter les risques de méprise sur le sens d’une date.
+|Le fondement de la démarche qualité Web opquast vise essentiellement :
+*La prévention des principaux risques de non qualité.
+|Quel problème qualité majeur pose immédiatement ce formulaire ?
+*Les étiquettes des champs sont-elles visuellement associées à ceux-ci ?
+|Quelle question qualité majeure pose immédiatement ce formulaire ?
+*Les libellés soulignés sont-ils des liens ?
+|Quelle question qualité majeure pose immédiatement cette page ?
+*Quelle est la période de validité de la promotion ?
+|Quelle question qualité majeure pose immédiatement cette page ?
+*Tous les liens sont-ils explicites ?
+|Quel problème qualité majeur apparaît immédiatement dans cette fenêtre modale affichant une vue agrandie du produit ?
+*Un bouton de fermeture explicite est-il présent ?
+|Quel défaut qualité majeur présente immédiatement cette page de mentions légales ?
+*La gestion des liens externes vers le site.
+|La [page d’erreur 404 visible ici](http://training-v2.certified.opquast.com/fr/wp-content/uploads/sites/3/pages/404.html) répond-elle aux exigences qualité Web ?
+*Non : il n’est pas possible de poursuivre la navigation sur le site.
+|Quelle question qualité majeure pose immédiatement cette page produit ?
+*La période et les conditions de validité des offres spéciales et promotions sont-elles indiquées ?
+|Dans un mini-site simple ayant un nombre de pages très réduit (mini-site événementiel ou site-vitrine par exemple):
+*Le plan de site est nécessaire.
+|La proposition « le site propose une application mobile équivalente » serait-elle admissible comme bonne pratique qualité ?
+*Non : ce n’est pas consensuel ; ce n’est pas universel ; ce n’est pas nécessairement utile.
+|Pour le designer, les bonnes pratiques sur l’usage de la couleur et sur les contrastes, ce sont :
+*Des contraintes au sein desquels la créativité trouve d’autant plus à s’exprimer avec maîtrise.
+|Cocher les 3 bonnes pratiques évaluables lors de la validation d’un wireframe (prototype) :
+*La modification de la quantité de chaque article, l’ajout et la suppression d’un ou plusieurs articles restent possibles avant la validation définitive de la commande.
+*Une adresse de livraison différente de l’adresse de facturation peut être spécifiée.
+*L’étape en cours d’un processus complexe est indiquée.
+|Cocher les 3 bonnes pratiques évaluables lors de la validation éditoriale :
+*Le format des fichiers proposés en téléchargement est indiqué.
+*Le site n’interdit pas la mise en place de liens entrants.
+*Le titre de chaque page permet d’identifier son contenu.
+|La bonne pratique « Le site est intégralement utilisable au clavier » vise :
+*Tous les sites, indépendamment du media, car elle permet de vérifier que la navigation ne dépend pas du périphérique utilisé
+|Je travaille au sein du service juridique de l’entreprise publiant le site. En matière de qualité Web :
+*Il est bon que je connaisse les bonnes pratiques, mais cela ne me dispense pas de vérifier les exigences légales.
+|Pour l’utilisateur ou le propriétaire du site, quel est le principal objectif de la bonne pratique « les contenus sont présentés avec un contraste suffisant par rapport à leur arrière-plan » ?
+*Permettre une bonne lisibilité des contenus pour tous les utilisateurs, dans tous les contextes de consultation.
+|En tant qu’utilisateur, à quoi peuvent me servir l’indication des coordonnées postales et téléphoniques de la représentation locale ou du siège social des sociétés et organisations propriétaires du site ?
+*À identifier l’entité responsable des contenus et des services.
+|Responsable Qualité d’un site d’actualités, j’ai lu sur 01net.com que les sites à succès faisaient désormais du flat-design :
+*Les choix de mode en matière de design ne sont pas du ressort de la démarche qualité Opquast, dont les bonnes pratiques doivent être à la fois universelles et consensuelles.
+|Une bonne pratique repose le plus souvent sur un test « unitaire », ce qui signifie :
+*Qu’elle vise un aspect précis de la qualité pouvant faire l’objet d’une vérification objective et spécifique.
+|Si certaines bonnes pratiques qualité peuvent paraître relever de l’évidence, c’est parce que :
+*L’approche a pour objectif de se prémunir contre les risques les plus fréquents, qui peuvent correspondre à des erreurs triviales.
+|Pour l’utilisateur d’une boutique en ligne, la bonne pratique « Le délai de livraison estimé est indiqué avant la validation définitive de la commande » a pour objectif :
+*D’identifier la date réelle à laquelle le bien commandé pourra être en ma possession.
+|Laquelle de ces affirmations est exacte à propos de la notion de « handicap » :
+*Le handicap est la perte ou la restriction de participer à la vie de la collectivité à égalité avec les autres.
+|Je décide de m’inscrire à une newsletter. Lorsque j’ai validé le formulaire d’inscription contenant mon adresse de courriel, le site doit :
+*Afficher une page m’informant qu’un mail de demande de confirmation a été envoyé à l’adresse que j’ai indiquée.
+|Le référentiel des bonnes pratiques Opquast est d’abord et avant tout destiné :
+*À la mesure des risques de non-qualité et à l’amélioration continue.
+|Je suis responsable d’un site exclusivement en langue française. Pour moi, les bonnes pratiques d’internationalisation :
+*Peuvent tout de même être applicables et utiles.
+|Cocher les 2 phrases exactes concernant la métadonnée indiquant le jeu de caractères dans le code HTML de la page :
+*L’indication de la métadonnée sur le jeu de caractères prévient le risque de problèmes d’affichage de caractères lié à un fonctionnement parfois hasardeux des mécanismes de rattrapage des navigateurs quand ils ne disposent pas de l’information nécessaire via l’en-tête HTTP content-type.
+*L’indication de la métadonnée sur le jeu de caractères permet un affichage hors-ligne correct des pages.
+|Cocher les 4 objectifs majeurs des bonnes pratiques e-commerce :
+*d’anticiper le besoin d’information prévisible de l’utilisateur.
+*de donner à l’utilisateur le contrôle du processus de commande.
+*de lever les freins à la validation de la commande.
+*de favoriser la relation de confiance avec l’utilisateur.
+|En tant que propriétaire d’une boutique en ligne, le respect de la bonne pratique « Le site accepte au moins deux moyens de paiement » me permet :
+*De proposer aux utilisateurs de choisir le mode de paiement qui leur convient le mieux dans leur contexte.
+|Je suis designer Web : les bonnes pratiques me concernent-elles ?
+*Oui : je dois veiller d’une part à éviter certaines erreurs proprement graphiques et mes choix ont d’autre part des conséquences sur la réalisation technique lors de l’intégration.
+|Je suis un lecteur assidu de la presse en ligne. Avec l’âge, j’ai besoin de pouvoir lire en gros caractères :
+*Les bonnes pratiques me garantissent la possibilité de pouvoir agrandire la taille du texte des pages que je consulte.
+|Concepteur d’un nouveau service en ligne, je vais parier sur les effets de ruptures avec les usages et séduire en étant inhabituel :
+*Une large part des bonnes pratiques sont applicables dans mon cas comme pour tout autre type de projet, même si je choisis d’en ignorer certaines en connaissance de cause.
+|Pour le référenceur (SEO), les bonnes pratiques sur l’usage du balisage HTML (métadonnée description, titres de section, titre de page, alternatives textuelles) :
+*Correspondent aux bases du référencement naturel.
+|La proposition de bonne pratique « le site affiche pour chaque page un bouton Ajouter aux favoris » est-elle utile ?
+*Non, c’est un doublon d’une fonction native des navigateurs, bien connue des utilisateurs : il est possible de la dupliquer dans l’interface du site, mais ce n’est pas nécessaire.
+|Dans quel cas la bonne pratique « le site fournit aux utilisateurs la possibilité de connaître les nouveaux contenus ou services » est-elle utile ?
+*Quels que soient les contenus ou les services : pouvoir être aisément au courant des nouveautés est une attente courante des utilisateurs.
+|La bonne pratique « Le site propose un fichier sitemap indiquant les contenus à explorer » vise :
+*Le référencement du site.
+*La pertinence du contenu du fichier sitemap.xml.
+*La présence du fichier sitemap.xml.
+|Cocher les 3 phrases exactes concernant les publicités et contenus sponsorisés :
+*L’identification des publicités et contenus sponsorisés évite les confusions entre contenus rédactionnels et publicitaires.
+*L’identification des publicités et contenus sponsorisés permet leur identification immédiate.
+*L’identification des publicités et contenus sponsorisés prévient les risques associés aux conflits d’intérêt.
+|Cocher les 2 phrases exactes concernant l’indication des délais de réponse aux demandes d’information :
+*Indiquer le délai de réponse aux demandes d’information permet de rassurer sur la capacité à prendre en compte les demandes.
+*Indiquer le délai de réponse aux demandes d’information permet de limiter les risques de relance de la part des utilisateurs.
+|Le « C » de Contenus dans le modèle VPTCS de la qualité Web correspond notamment :
+*À la rédaction.
+*À l’orthographe.
+|Cocher la définition correcte d’un template :
+*Les templates permettent de mutualiser la gestion de la structure des pages.
+|Pour l’utilisateur, lorsqu’un site applique le même style (couleur, graisse, soulignement, etc.) aux liens visités et non visités :
+*C’est une mauvaise pratique qui gêne l’utilisateur privé d’un repère visuel précieux lors de l’exploration du site.
+|Laquelle de ces affirmations est exacte à propos de la notion de htaccess :
+*C’est un fichier de configuration des serveurs web Apache qui permet en particulier de définir les droits d’accès, les pages d’erreurs personnalisées et les redirections.
+|Laquelle de ces affirmations est exacte à propos de la notion d’Ajax :
+*Ajax désigne une utilisation de Javascript permettant d’optimiser la gestion des contenus dynamiques en limitant les échanges client/serveur à la seule partie concernée de la page et en évitant son rechargement complet à chaque interaction.
+|Qu’est-ce que les espaces publics d’un site Web ?
+*Les contenus dont la rédaction et la publication (immédiate ou bien modérée et différée) sont ouvertes aux visiteurs du site (commentaires, forum, wiki, etc.).
+|Qu’est-ce qu’une icône de navigation ?
+*C’est une image-lien de taille réduite dont le graphisme (généralement simplifié) représente une fonctionnalité de navigation dans le site : retour à l’accueil, accès au plan de site, accès à la rubrique parente ou à l’élément précédent, etc.
+|Qu’est-ce que la racine du site ?
+*Un répertoire physique sur le serveur directement accessible à partir de l’URL du domaine. Par exemple, le répertoire correspondant à http://example.org/
+|Une bonne pratique qualité Web doit être avant tout :
+*Utile.
+*Réaliste.
+|Pour être utile, une démarche qualité doit :
+*Être menée en continu depuis le démarrage du processus de conception jusqu’au fil de la vie du site.
+|Le « P » de Perception dans le modèle VPTCS de la qualité Web correspond notamment :
+*À la cohérence de la charte graphique sur l’ensemble des pages du site.
+*À la qualité de contraste et de lisibilité des pages du site sur un écran dans des conditions diverses.
+|Le « T » de Technique dans le modèle VPTCS de la qualité Web correspond notamment :
+*À l’utilisation correcte du balisage HTML.
+*Au paramétrage serveur nécessaire pour optimiser la compression des données envoyées au navigateur, afin d’optimiser le temps de chargement des pages et de réduire les coûts de bande passante.
+*À la gestion des certificats de sécurité.
+|Le « S » de Services dans le modèle VPTCS de la qualité Web correspond notamment :
+*Au déroulement du processus de commande dans un site e-commerce.
+*À la gestion de la logistique d’expédition des produits matériels dans le cas d’une boutique en ligne.
+|La bonne pratique « Les processus complexes sont accompagnés de la liste de leurs étapes »est utile pour :
+*Informer l’utilisateur sur ce qui va se passer par la suite.
+*Donner à l’utilisateur une idée du temps que vont lui prendre les opérations à venir.
+|Les produits indisponibles doivent faire l’objet d’une différenciation visuelle ou textuelle de façon à :
+*Informer immédiatement l’utilisateur sur les produits non disponibles et éviter les déceptions ultérieures.
+|Les prix affichés mentionnent le détail des taxes et suppléments éventuels ainsi que le montant hors taxes parce que :
+*L’utilisateur peut avoir besoin de ces informations pour prendre sa décision de commander ou non.
+|Lorsqu’un protoype prévoit la présence d’un tooltip, il s’agit :
+*D’une information affichée en surimpression de la page, le plus souvent lors du survol d’un contenu.
+|Lorsqu’un développeur parle du cache navigateur, il s’agit :
+*D’une fonctionnalité des navigateurs web leur permettant de conserver localement l’enregistrement des ressources d’une page web (images, scripts, etc.) afin de ne pas avoir à les télécharger de nouveau quand elles sont utilisées une seconde fois.
+|Pour le propriétaire d’un site, le déclenchement automatique des sons, vidéos et animations au chargement de la page Web :
+*Est une pratique à proscrire : il faut laisser à l’utilisateur le contrôle de l’interface sonore et visuelle lors de la consultation du site, et ne pas le surprendre avec la diffusion inattendue d’un contenu audio.
+|Pour un utilisateur d’une boutique en ligne, la bonne pratique « La disponibilité des produits est indiquée avant la validation définitive de la commande » a pour objectif :
+*D’anticiper d’éventuelles difficultés et une augmentation du délai de livraison.
+|En tant que propriétaire d’une boutique en ligne, est-ce que la bonne pratique « les moyens de paiement acceptés et les procédures correspondantes sont indiqués » m’est-elle utile ?
+*Oui : j’éviterai d’éventuelles déceptions des utilisateurs au moment de finaliser la commande.
+|En ce qui concerne les conditions générales de vente d’une boutique en ligne :
+*L’utilisateur doit pouvoir les consulter les conditions générales de vente à tout moment, avant, pendant ou après la commande.
+|Cocher les 3 affirmations correspondant à un effet significatif des CMS sur la qualité Web :
+*Délégation technique
+*Séparation des métiers
+*Industrialisation
+|La règle suivante « Les recours en cas de litige sont indiqués dans les conditions générales de vente ou d’utilisation » :
+*Est une bonne pratique Opquast parce qu’elle contribue à rassurer l’internaute avant l’achat.
+|La bonne pratique « Les champs de formulaires doivent être associés visuellement à leurs étiquettes » est essentielle pour :
+*Les mal-voyants qui naviguent avec un zoom d’écran ainsi que les utilisateurs de tablettes ou de mobiles qui recourent à un fort agrandissement.
+|L’ergonome a notamment pour rôle :
+*De vérifier l’adéquation de l’interface et des conditions d’utilisation aux besoins et capacités de ses utilisateurs.
+|Cocher les phrases exactes concernant le nombre de moyens de contact :
+*Offrir plusieurs moyens de contact favorise la confiance en garantissant d’entrée de jeu à l’utilisateur la possibilité d’un recours en cas de difficultés.
+*Offrir plusieurs moyens de contact permet d’éviter de mettre l’utilisateur en difficulté en cas d’indisponibilité ou de problèmes d’utilisation.
+*Offrir plusieurs moyens de contact permet d’optimiser les possibilités de retour d’information de la part des utilisateurs.
+|Je suis expert SEO (référencement) : les bonnes pratiques me concernent-elles ?
+*Oui : différentes bonnes pratiques relèvent des bases du référencement naturel et doivent être prises en compte le plus tôt possible dans le projet
+|Pour l’utilisateur, la bonne pratique « la soumission d’un formulaire est suivie d’un message indiquant la réussite ou non de l’action souhaitée » a une valeur ajoutée ?
+*Oui, car je saurai dans tous les cas quel est le résultat de mon action (succès ou échec, etc.)
+|Cocher les qualificatifs et expressions qui caractérisent la démarche de qualité Web :
+*Transformation d’exigences génériques en critères objectifs.
+*Approche transversale à travers les différents métiers
+*Exigences mesurables.
+|Cocher les 2 phrases qui expliquent pourquoi certaines bonnes pratiques ne peuvent pas être testées automatiquement  :
+*Seules la présence d’éléments de code HTML est vérifiable automatiquement.
+*Un robot logiciel ne peut pas évaluer des questions de pertinence d’un contenu textuel.
+|L’affirmation « le site ne comporte pas de publicités »:
+*N’est pas une bonne pratique (ce ne serait ni utile ni consensuel ni réaliste).
+|Cocher la phrase exacte à propos de la notion de linéarisation :
+*Résultat du rendu final d’une page web, non pas dans l’ordre apparent que l’utilisateur peut déduire de son affichage CSS à l’écran, mais dans l’ordre réel où les contenus qui la composent se trouvent dans son code source.
